@@ -1,4 +1,4 @@
-# - Model 1 -
+# ----- Model 1 -----
 
 # 1. Model
 # 3 Layers with 1 Convolution layer
@@ -18,7 +18,7 @@
 # 5. Images and corresponding probability that predicted Wrong
 ![model1_wrong](https://user-images.githubusercontent.com/66356292/83650016-d3a9a300-a5f2-11ea-952d-63c5c3573d08.PNG)
 
-# - Model 2 -
+# ----- Model 2 -----
 
 # 1. Model
 # 5 Layers with 2 Convolution layer
@@ -38,7 +38,7 @@
 # 5. Images and corresponding probability that predicted Wrong
 ![model2_wrong](https://user-images.githubusercontent.com/66356292/83650054-defcce80-a5f2-11ea-80d9-db5c3967f2e2.PNG)
 
-# - Model 3 -
+# ----- Model 3 -----
 
 # 1. Model
 # 7 Layers with 4 Convolution layer
